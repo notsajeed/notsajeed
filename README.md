@@ -5,12 +5,10 @@
 
 ### 🎮 Controls
 
+  [![⬅️ LEFT](https://img.shields.io/badge/⬅️-LEFT-brightgreen?style=for-the-badge)](https://snake-api-6tjn.onrender.com/move/left?redirect=https://github.com/notsajeed)
 [![⬆️ UP](https://img.shields.io/badge/⬆️-UP-brightgreen?style=for-the-badge)](https://snake-api-6tjn.onrender.com/move/up?redirect=https://github.com/notsajeed)
- [![⬇️ DOWN](https://img.shields.io/badge/⬇️-DOWN-brightgreen?style=for-the-badge)](https://snake-api-6tjn.onrender.com/move/down?redirect=https://github.com/notsajeed)
-
-
-[![➡️ RIGHT](https://img.shields.io/badge/➡️-RIGHT-brightgreen?style=for-the-badge)](https://snake-api-6tjn.onrender.com/move/right?redirect=https://github.com/notsajeed)  [![⬅️ LEFT](https://img.shields.io/badge/⬅️-LEFT-brightgreen?style=for-the-badge)](https://snake-api-6tjn.onrender.com/move/left?redirect=https://github.com/notsajeed)
-
+ [![⬇️ DOWN](https://img.shields.io/badge/⬇️-DOWN-brightgreen?style=for-the-badge)](https://snake-api-6tjn.onrender.com/move/down?redirect=https://github.com/notsajeed) 
+[![➡️ RIGHT](https://img.shields.io/badge/➡️-RIGHT-brightgreen?style=for-the-badge)](https://snake-api-6tjn.onrender.com/move/right?redirect=https://github.com/notsajeed) 
 
 ## 🧑‍💻 About
 I do **code**.
