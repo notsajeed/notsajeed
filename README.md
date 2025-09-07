@@ -59,3 +59,13 @@ I do **code**.
 `a87a51336e3bda96754ff6772a8bd4bd03f76118b22cdcc919aaa7fc5dbd31e5`  
 
 ---
+
+![Snake Game](https://snake-api-6tjn.onrender.com/board.svg?cachebuster=1234)
+
+### 🎮 Controls
+
+[[⬆️ UP](https://snake-api-6tjn.onrender.com/move/up?redirect=https://github.com/notsajeed)]
+[[⬅️ LEFT](https://snake-api-6tjn.onrender.com/move/left?redirect=https://github.com/notsajeed)]
+[[➡️ RIGHT](https://snake-api-6tjn.onrender.com/move/right?redirect=https://github.com/notsajeed)]
+[[⬇️ DOWN](https://snake-api-6tjn.onrender.com/move/down?redirect=https://github.com/notsajeed)]
+
