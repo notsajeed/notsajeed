@@ -2,6 +2,7 @@
 
 ---
 ![Snake Game](https://snake-api-6tjn.onrender.com/board.svg?cachebuster=1234)
+<!-- Ah, I see you’ve found the API links. Congratulations on your detective skills. Using them? Bold. Stupidly bold. 😎 -->
 
 ### 🎮 Controls
 
@@ -9,6 +10,8 @@
 [![⬆️ UP](https://img.shields.io/badge/⬆️-UP-brightgreen?style=for-the-badge)](https://snake-api-6tjn.onrender.com/move/up?redirect=https://github.com/notsajeed)
  [![⬇️ DOWN](https://img.shields.io/badge/⬇️-DOWN-brightgreen?style=for-the-badge)](https://snake-api-6tjn.onrender.com/move/down?redirect=https://github.com/notsajeed) 
 [![➡️ RIGHT](https://img.shields.io/badge/➡️-RIGHT-brightgreen?style=for-the-badge)](https://snake-api-6tjn.onrender.com/move/right?redirect=https://github.com/notsajeed) 
+
+<!-- Seriously, don’t even think about using the API. Unless you enjoy watching servers silently judge you. -->
 
 ## 🧑‍💻 About
 I do **code**.
