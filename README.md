@@ -1,6 +1,16 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=00F5D4&width=600&lines=Hi%2C+I'm+Sajeed.;Yes%2C+this+is+a+README.;Fine%2C+scroll+down...)](https://notsajeed.github.io)
 
 ---
+![Snake Game](https://snake-api-6tjn.onrender.com/board.svg?cachebuster=1234)
+
+### 🎮 Controls
+
+[![⬆️ UP](https://img.shields.io/badge/⬆️-UP-brightgreen?style=for-the-badge)](https://snake-api-6tjn.onrender.com/move/up?redirect=https://github.com/notsajeed)
+ [![⬇️ DOWN](https://img.shields.io/badge/⬇️-DOWN-brightgreen?style=for-the-badge)](https://snake-api-6tjn.onrender.com/move/down?redirect=https://github.com/notsajeed)
+
+
+[![➡️ RIGHT](https://img.shields.io/badge/➡️-RIGHT-brightgreen?style=for-the-badge)](https://snake-api-6tjn.onrender.com/move/right?redirect=https://github.com/notsajeed)  [![⬅️ LEFT](https://img.shields.io/badge/⬅️-LEFT-brightgreen?style=for-the-badge)](https://snake-api-6tjn.onrender.com/move/left?redirect=https://github.com/notsajeed)
+
 
 ## 🧑‍💻 About
 I do **code**.
@@ -8,6 +18,7 @@ I do **code**.
 [Dont Click here](https://notsajeed.github.io)
 
 ---
+
 
 ## 🌐 Socials
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/notsajeed)
@@ -60,12 +71,4 @@ I do **code**.
 
 ---
 
-![Snake Game](https://snake-api-6tjn.onrender.com/board.svg?cachebuster=1234)
-
-### 🎮 Controls
-
-[[⬆️ UP](https://snake-api-6tjn.onrender.com/move/up?redirect=https://github.com/notsajeed)]
-[[⬅️ LEFT](https://snake-api-6tjn.onrender.com/move/left?redirect=https://github.com/notsajeed)]
-[[➡️ RIGHT](https://snake-api-6tjn.onrender.com/move/right?redirect=https://github.com/notsajeed)]
-[[⬇️ DOWN](https://snake-api-6tjn.onrender.com/move/down?redirect=https://github.com/notsajeed)]
 
