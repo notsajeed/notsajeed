@@ -16,7 +16,7 @@
 ## 🧑‍💻 About
 I do **code**.
 
-[Click here](https://notsajeed.github.io)
+[Click here](https://notsajeed.pages.dev)
 
 ---
 
