@@ -39,6 +39,8 @@
 | [Raven](https://notsajeed.pages.dev/projects/raven.html) | A semantic CLI wrapper around Git. |
 | [First Game](https://notsajeed.pages.dev/projects/firstgame.html) | A small Godot platformer built while learning the engine. |
 | [Exile](https://notsajeed.pages.dev/projects/exile.html) | Android app that automatically closes YouTube Shorts the moment they open. |
+| [Mimir](https://notsajeed.pages.dev/projects/mimir.html) | A pocket reading app. |
+| [Repov](https://notsajeed.pages.dev/projects/repov.html) | A web app for visualizing GitHub repository structure, commits, and contributors. |
 
 Full list with details: [notsajeed.pages.dev/#projects](https://notsajeed.pages.dev/index.html#projects)
 
