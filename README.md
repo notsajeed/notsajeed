@@ -17,7 +17,7 @@
 [![DOWN](https://img.shields.io/badge/DOWN-brightgreen?style=for-the-badge)](https://snake-api-6tjn.onrender.com/move/down?redirect=https://github.com/notsajeed)
 [![RIGHT](https://img.shields.io/badge/RIGHT-brightgreen?style=for-the-badge)](https://snake-api-6tjn.onrender.com/move/right?redirect=https://github.com/notsajeed)
 
-<!-- Seriously, don't even think about using the API. Unless you enjoy watching servers silently judge you. -->
+<!-- Seriously, don't even think about using the API. -->
 
 [Another one?](https://notsajeed.github.io/games/drop.html)
 
@@ -37,10 +37,11 @@
 | [Ath](https://notsajeed.pages.dev/projects/ath.html) | Browse and analyze individual Python files. |
 | [Datapawn](https://notsajeed.pages.dev/projects/datapawn.html) | Chess dataset generator. |
 | [Raven](https://notsajeed.pages.dev/projects/raven.html) | A semantic CLI wrapper around Git. |
-| [First Game](https://notsajeed.pages.dev/projects/firstgame.html) | A small Godot platformer built while learning the engine. |
+| [Escape](https://notsajeed.pages.dev/projects/firstgame.html) | A small Godot platformer built while learning the engine. |
 | [Exile](https://notsajeed.pages.dev/projects/exile.html) | Android app that automatically closes YouTube Shorts the moment they open. |
 | [Mimir](https://notsajeed.pages.dev/projects/mimir.html) | A pocket reading app. |
 | [Repov](https://notsajeed.pages.dev/projects/repov.html) | A web app for visualizing GitHub repository structure, commits, and contributors. |
+| [Excelp](https://notsajeed.pages.dev/projects/excel.html) |	Convert any image into an .xlsx file where the image is recreated using colored Excel cells. |
 
 Full list with details: [notsajeed.pages.dev/#projects](https://notsajeed.pages.dev/index.html#projects)
 
