@@ -42,6 +42,7 @@
 | [Mimir](https://notsajeed.pages.dev/projects/mimir.html) | A pocket reading app. |
 | [Repov](https://notsajeed.pages.dev/projects/repov.html) | A web app for visualizing GitHub repository structure, commits, and contributors. |
 | [Excelp](https://notsajeed.pages.dev/projects/excel.html) |	Convert any image into an .xlsx file where the image is recreated using colored Excel cells. |
+| [Whoport](https://notsajeed.pages.dev/projects/whoport.html) | A Windows CLI tool that tells you exactly what's listening on a port and lets you kill it.|
 
 Full list with details: [notsajeed.pages.dev/#projects](https://notsajeed.pages.dev/index.html#projects)
 
